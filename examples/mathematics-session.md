@@ -21,7 +21,7 @@ If the learner answers `3x^3`, the exact gap is that the new coefficient must be
 Explain only the missing rule:
 
 ```text
-d/dx(x^n) = n x^(n1)
+d/dx(x^n) = n x^(n-1)
 
 d/dx(x^4) = 4x^3
 ```
@@ -40,7 +40,7 @@ Ask the learner, without showing the answer:
 Find d/dx of 3x^2 + 2x + 4.
 ```
 
-A correct answer, `68x + 2`, demonstrates reproduction of the basic derivative rules.
+A correct answer, `6x + 2`, demonstrates reproduction of the basic derivative rules.
 
 ## Connect to the new concept
 
@@ -73,3 +73,4 @@ f_y = 3x + 2y
 ```
 
 This provides stronger evidence than simply recognising the worked answer.
+
