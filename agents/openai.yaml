@@ -1,0 +1,5 @@
+interface:
+  display_name: "Nic Structured Learning"
+  short_description: "Structured learning for technical subjects"
+  default_prompt: "Use $nic-structured-learning to teach me this technical topic from the big picture to independent application."
+
